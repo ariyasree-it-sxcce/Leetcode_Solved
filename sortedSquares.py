@@ -5,3 +5,6 @@ class Solution(object):
             x=nums[i]*nums[i]
             A.append(x)
         return sorted(A)
+    
+# Time Complexity ---> O(n)+O(n log n) ===> Therefore, O(n log n)
+#Space Complexity ---> O(n)
