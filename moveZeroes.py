@@ -10,7 +10,6 @@ class Solution(object):
             read+=1
         return nums
     
-    
 # Time Complexity O(n)
 # Space Complexity O(n)
 '''
